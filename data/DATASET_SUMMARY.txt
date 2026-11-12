@@ -1,0 +1,20 @@
+DATASET SUMMARY
+===============
+Training rows: 78,560
+Training columns: 39
+Prediction/test rows: 26,305
+Prediction/test columns: 38
+Target: Congestion_Type
+Identifier: cell_name
+Missing values (train): 0
+Missing values (test): 0
+
+Target class counts:
+Congestion_Type
+NC                        19771
+4G_BACKHAUL_CONGESTION    19765
+3G_BACKHAUL_CONGESTION    19688
+4G_RAN_CONGESTION         19336
+
+RAN vendor values:
+ERICSSON, HUAWEI, NOKIA
